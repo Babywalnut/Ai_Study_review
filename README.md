@@ -1,7 +1,5 @@
 # Ai_Study_review
 ![tube](./tube.png)
-
-### 참고자료용
 ## <span style="color:red">머신러닝</span>
 * 1주차
   1. [구글홈페이지](http://www.google.co.kr).</br>
