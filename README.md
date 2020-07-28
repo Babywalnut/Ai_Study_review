@@ -1,6 +1,6 @@
 # Ai_Study_review
 
-<img src="/Ai_Study_review/tube.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="화이팅"></img><br/>
+<img src="../tube.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="화이팅"></img><br/>
 
 ### 참고자료용
 ## <span style="color:red">머신러닝</span>
